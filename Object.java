@@ -23,7 +23,7 @@ public class Object {
 		if (t1.equals(t2))
 			System.out.println("t1==t2");
 		else
-			System.out.println("t1!=t2");
+			System.out.println("t1!=t2");   
 		
 		
 		System.out.println(t1.toString());
